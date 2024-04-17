@@ -1,0 +1,31 @@
+body {
+    background-color: #181818;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+#insert {
+    /* width: 100%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .key {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+table,
+th,
+td {
+    border: 1px solid;
+}
